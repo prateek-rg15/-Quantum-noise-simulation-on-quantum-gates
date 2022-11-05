@@ -5,4 +5,4 @@ The code file [noise.m](https://github.dev/prateek-rg15/-Quantum-noise-simulatio
 
 
 ![image](https://github.com/prateek-rg15/-Quantum-noise-simulation-on-quantum-gates/blob/main/error.jpg)
-Error probabilty p=0.02 rotation error e=8 degrees
+Bit flip error probabilty p=0.02 and rotation error e=8 degrees
